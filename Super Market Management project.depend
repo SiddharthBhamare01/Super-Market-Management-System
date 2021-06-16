@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597074812 source:d:\program.c\hellow\super market management project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
